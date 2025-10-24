@@ -12,4 +12,4 @@ Model Heterogeneous Federated Learning (MHFL) extends traditional federated lear
 
 ## Supplementary Appendix
 
-Click [[Here]](dd) to download the Supplementary Appendix.
+Click [[Here]](supplementary_appendix.pdf) to download the Supplementary Appendix.
